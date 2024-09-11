@@ -1,0 +1,13 @@
+train: /Users/ALONA/Desktop/Go_IT/HW/Data Science/Data_Science/Number_plate_Recognition/License_Plate_Recognition/train
+val: /Users/ALONA/Desktop/Go_IT/HW/Data Science/Data_Science/Number_plate_Recognition/License_Plate_Recognition/valid
+test: /Users/ALONA/Desktop/Go_IT/HW/Data Science/Data_Science/Number_plate_Recognition/License_Plate_Recognition/test
+
+nc: 1
+names: ['License_Plate']
+
+roboflow:
+  workspace: roboflow-universe-projects
+  project: license-plate-recognition-rxg4e
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4
