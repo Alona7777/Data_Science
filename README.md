@@ -4,12 +4,12 @@ This repository contains various projects and research in the field of Data Scie
 
 ## Repository Structure
 
-- **classification/** - Projects related to classification tasks
-- **regression/** - Research and models for regression analysis
-- **clustering/** - Projects on clustering data
-- **nlp/** - Works in the field of Natural Language Processing
+- **CLASSIFICATION/** - Projects related to classification tasks
+- **REGRESSION/** - Research and models for regression analysis
+- **CLUSTERING/** - Projects on clustering data
+- **NLP/** - Works in the field of Natural Language Processing
 - **Recommendation_systems/** - Development and analysis of recommendation systems
-- **neural_networks/** - Projects using neural networks
+- **NEURAL_NETWORKS/** - Projects using neural networks
 - **Lessons/** - Lesson materials and educational projects
 
 ## Project Descriptions
